@@ -9,4 +9,4 @@
 <img src="image/Screenshot 2025-03-17 221551.jpg" width="320" height="220" />
 
 ## 프로그램
-<img src="image/주소록 프로그램.jpg" width="320" height="300" /> <img src="image/주소록 관리.jpg" width="320" height="300" />
+<img src="image/주소록 프로그램.jpg" width="320" height="300" /> <img src="image/주소록 관리.jpg" width="300" height="300" />
