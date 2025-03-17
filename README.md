@@ -10,4 +10,4 @@
 
 6. 가상환경과 VSCode 연결
 ## 프로그램
-<img src="image/주소록 프로그램.jpg" width="320" height="220" /> <img src="image/주소록 관리.jpg" width="320" height="220" />
+<img src="image/주소록 프로그램.jpg" width="320" height="300" /> <img src="image/주소록 관리.jpg" width="320" height="300" />
